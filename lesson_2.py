@@ -8,3 +8,4 @@ for i in range(lenght_pass):
     shakal += choice(symbol)
 
 print("Ваш пароль:", shakal)
+print("0_o")
